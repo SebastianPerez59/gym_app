@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608083410553",
+    "project_id": "flutter-ai-playground-bb605",
+    "storage_bucket": "flutter-ai-playground-bb605.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608083410553:android:ffef58342d5f5264359ea8",
+        "android_client_info": {
+          "package_name": "gym.en.casa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydZuyfYCSZA5nwkuqatJbE0Jp5TamrrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
